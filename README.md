@@ -1,2 +1,2 @@
 # Datasets1
-Tugas 1-4 - Data Mining
+Tugas 1-2 (Data Mining)
